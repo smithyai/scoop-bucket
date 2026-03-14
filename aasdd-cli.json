@@ -1,26 +1,26 @@
 {
-    "version": "0.1.3",
+    "version": "0.1.4",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/smithyai/aasdd-cli/releases/download/v0.1.3/aasdd-cli_0.1.3_windows_386.zip",
+            "url": "https://github.com/smithyai/aasdd-cli/releases/download/v0.1.4/aasdd-cli_0.1.4_windows_386.zip",
             "bin": [
                 "aasdd.exe"
             ],
-            "hash": "8e5edd0b58fe121de0076d0d2405daea9a738a18159be323f863a4ee2382719e"
+            "hash": "aff7312033dfdd05dcc82754a2024f2b643c3333019685d6b9e51d779493bb95"
         },
         "64bit": {
-            "url": "https://github.com/smithyai/aasdd-cli/releases/download/v0.1.3/aasdd-cli_0.1.3_windows_amd64.zip",
+            "url": "https://github.com/smithyai/aasdd-cli/releases/download/v0.1.4/aasdd-cli_0.1.4_windows_amd64.zip",
             "bin": [
                 "aasdd.exe"
             ],
-            "hash": "de86e8661074ae4d18506a7607cca3b4bb4b01a202cba2374cbda50013d3cc05"
+            "hash": "60b907243926c9846e91e4b65254dd569c22b7832945bd612cb1141431f2d868"
         },
         "arm64": {
-            "url": "https://github.com/smithyai/aasdd-cli/releases/download/v0.1.3/aasdd-cli_0.1.3_windows_arm64.zip",
+            "url": "https://github.com/smithyai/aasdd-cli/releases/download/v0.1.4/aasdd-cli_0.1.4_windows_arm64.zip",
             "bin": [
                 "aasdd.exe"
             ],
-            "hash": "5d3ec04fba45a89417b2fb9adb6d392f3cb5b2aac3706a1acec624f244063b78"
+            "hash": "5f93663991d2799907218efbf1726aec4ec4ed8b24371613dc48f4e111039bc3"
         }
     },
     "homepage": "https://github.com/smithyai/aasdd-cli",
